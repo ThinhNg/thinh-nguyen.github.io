@@ -1,0 +1,29 @@
+
+#ColorSetup
+{
+color: white;
+background-color:black;
+padding: 20px;
+font-size: 20px;
+
+}
+
+
+#VizSetup
+
+{
+    color: white;
+    background-color:black;
+    padding: 20px;
+
+}
+
+#CompareSetup
+
+{
+    color: white;
+    background-color:black;
+    padding: 20px;
+    text-align: center;
+
+}
